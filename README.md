@@ -7,6 +7,7 @@ Healenium with Robot-Framework usage example
 
 [1. Start Healenium components](#1-start-healenium-components)
 * [Healenium with Selenium-Grid](#run-healenium-with-selenium-grid)
+* [Healenium without Docker](#run-healenium-without-docker)
 
 [2. Configuration RemoteWebDriver](#2-configuration-remotewebdriver)
 
@@ -32,6 +33,11 @@ Verify the next images are <b>Up</b> and <b>Running</b>
 - `hlm-backend` (CRUD service)
 - `selector imitator` (Convert healed locator to convenient format)
 - `selenium-grid` (Selenium server)
+
+
+#### Run Healenium without Docker:
+
+Documanetation: https://healenium.io/docs/download_and_install/hlm_proxy
 
 ### 2. Configuration RemoteWebDriver
 
